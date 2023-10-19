@@ -1,12 +1,13 @@
 [![atlanta.png](https://i.postimg.cc/jjVvqDXK/atlanta.png)](https://postimg.cc/G4QvqhVS)
 
-### I’m interested in...
-- Improving my frontend and backend development skills
-- Diving deeper into React and Gatsby
-- Continuing to improve my CSS skills
+### My professional focus lies in:
+
+- Enhancing my proficiency in both frontend and backend development
+- Deepening my expertise in web development frameworks and libraries
+- Continually advancing my mastery of responsive web design and incorporating dynamic animations, often utilizing tools like GreenSock
 
 ### Fun fact...
-- I worked in Account and Project Management for almost 10 years before deciding to make a career change.
+- Prior to transitioning into web development, I dedicated nearly a decade to roles in Account and Project Management, equipping me with valuable organizational and client-centric skills
 - I have a 90 pound rescue pup named Kirby (GO DAWGS)
 
 ## Skills...
